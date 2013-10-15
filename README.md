@@ -13,7 +13,7 @@ $ curl -H 'Content-Type: application/json' http://localhost:8080/scalatra-sample
 ## Examples ##
 
 In the `tests` directory there is a set of test cases showing all valid use cases. To run:
-```
+```sh
 $ cd tests
 $ virtualenv .
 $ source ./bin/activate.sh
